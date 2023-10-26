@@ -17,7 +17,7 @@ Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours
 
 The presentation Documentation provide an in-depth overview of the Whisper project, covering its objectives, architecture, and key features.
 
-- **PDF Slides**: [Whisper Overview PDF](https://github.com/SoniaWang121/whisper_overview/blob/main/README.pdf)
+- **PDF Slides**: [Whisper Overview PDF](https://github.com/SoniaWang121/whisper_overview/blob/main/presentation_documentation.pdf)
 
 ## Code Demonstration
 
