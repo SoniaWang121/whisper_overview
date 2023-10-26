@@ -58,7 +58,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 xiaohan.wang.1[at]vanderbilt.edu
 
 Project Link: [https://github.com/SoniaWang121/whisper_overview](https://github.com/SoniaWang121/whisper_overview)
-
----
-
-Feel free to customize this README to better suit the needs of your project.
